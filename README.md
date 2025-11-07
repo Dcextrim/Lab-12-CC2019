@@ -131,7 +131,18 @@ elementos_a_borrar = ["amarillo", "café", "blanco"]
 
 ## Video de Demostración
 
-**Archivo:** `Lab12.mkv` (incluido en este repositorio)
+https://github.com/Dcextrim/Lab-12-CC2019/Lab12.mp4
+
+> El video demuestra la ejecución de los cuatro ejercicios, mostrando todos los casos de prueba y la correcta funcionalidad de cada implementación.
+
+**Duración:** Menos de 10 minutos  
+**Contenido:**
+- Explicación de cada ejercicio
+- Demostración de compilación con GHC
+- Ejecución y verificación de resultados
+- Casos de prueba adicionales
+
+---
 
 ## Referencias
 
