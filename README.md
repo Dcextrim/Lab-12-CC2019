@@ -17,7 +17,9 @@ Este repositorio contiene la implementación de cuatro ejercicios desarrollados 
 Lab-12-CC2019/
 │
 ├── README.md                    # Este archivo
-└── Lab12TeoriaChet.ipynb        # Notebook de Jupyter con todos los ejercicios
+├── Lab12TeoriaChet.ipynb        # Notebook de Jupyter con todos los ejercicios
+├── Laboratorio_No_12.txt        # Instrucciones originales del laboratorio
+└── Lab12.mkv                    # Video de demostración
 ```
 
 ---
@@ -129,9 +131,7 @@ elementos_a_borrar = ["amarillo", "café", "blanco"]
 
 ## Video de Demostración
 
-[**Ver video en YouTube**](URL_DEL_VIDEO_AQUI)
-
-> El video demuestra la ejecución de los cuatro ejercicios, mostrando todos los casos de prueba y la correcta funcionalidad de cada implementación.
+**Archivo:** `Lab12.mkv` (incluido en este repositorio)
 
 ## Referencias
 
