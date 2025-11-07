@@ -5,10 +5,6 @@
 
 Este repositorio contiene la implementación de cuatro ejercicios desarrollados en **Haskell**, como parte del Laboratorio No. 12 de Teoría de la Computación. 
 
-### Nota sobre Puntos Extra
-
-**Este laboratorio fue implementado completamente en Haskell** 
-
 
 
 ## Estructura del Repositorio
